@@ -4,7 +4,7 @@
 
 ## Description
 
-This `Material` extracts the values from the scalar variables solved by [GlobalStrain](/ScalarKernels/GlobalStrain) and stores them as a strain tensor.
+This `Material` extracts the values from the scalar variables solved by [GlobalStrain](/GlobalStrain.md) and stores them as a strain tensor.
 Global strain calculated here is added to the total strain.
 
 !alert warning
